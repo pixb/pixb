@@ -63,13 +63,15 @@
   <img src="https://komarev.com/ghpvc/?username=pixb&style=for-the-badge&color=FFB6C1&label=Profile+Views" alt="Profile Views" />
 </p>
 
-<!-- github-readme-stats 卡片：公共实例偶发 503，如长期无法加载可自托管
-     自托管教程：https://github.com/anuraghazra/github-readme-stats#deploy-on-own-vercel-instance -->
+<!-- github-readme-stats 公共实例已 503 宕机，如需详细统计卡片（语言分布等）可自托管：
+     https://github.com/anuraghazra/github-readme-stats#deploy-on-own-vercel-instance
+     自托管后取消下方注释并将 URL 替换为你的 Vercel 域名即可
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pixb&show_icons=true&include_all_commits=true&count_private=true&bg_color=FDF6F9&title_color=9B8AAE&icon_color=A8D8BA&text_color=7A7A8A&border_color=F0D9E8&hide_border=false" alt="pixb's GitHub stats" />
+  <img height="180em" src="https://your-domain.vercel.app/api?username=pixb&show_icons=true&include_all_commits=true&count_private=true&bg_color=FDF6F9&title_color=9B8AAE&icon_color=A8D8BA&text_color=7A7A8A&border_color=F0D9E8" alt="pixb's GitHub stats" />
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixb&layout=compact&langs_count=8&bg_color=FDF6F9&title_color=9B8AAE&text_color=7A7A8A&border_color=F0D9E8" alt="Top Languages" />
+  <img height="180em" src="https://your-domain.vercel.app/api/top-langs/?username=pixb&layout=compact&langs_count=8&bg_color=FDF6F9&title_color=9B8AAE&text_color=7A7A8A&border_color=F0D9E8" alt="Top Languages" />
 </p>
+-->
 
 <!-- 连续提交天数：streak-stats 已迁移到 demolab.com，稳定可用 -->
 <p align="center">
